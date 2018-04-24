@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+misc
+1-data-ingestion/iris_copy.csv
+1-data-ingestion/plot_spatial_subset.csv
+
+*.swp
